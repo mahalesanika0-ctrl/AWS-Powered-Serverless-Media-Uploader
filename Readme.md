@@ -1,4 +1,4 @@
-# Serverless Media Upload Hub using AWS Lambda, S3, and DynamoDB
+# AWS-Powered Serverless Media Uploader
 
 This project presents a **serverless media upload platform** built with   **AWS Lambda, Amazon S3,** and **Amazon DynamoDB.** It allows users to seamlessly upload media files through a web-based interface. Uploaded files are stored in S3, while metadata is efficiently managed in DynamoDB.
 
@@ -84,3 +84,4 @@ Set up Amazon API Gateway to expose your Lambda function through RESTful HTTP en
 
 ### 7.Build Frontend Interface
 Develop a simple, user-friendly frontend (e.g., a React or plain HTML/JS app) that connects to the API Gateway, allowing users to upload media and submit metadata easily.
+
