@@ -4,16 +4,16 @@ This project presents a **serverless media upload platform** built with   **AWS 
 
 ## Key Features
 
-### ⚙️ Serverless Architecture
+###  Serverless Architecture
 * Powered by AWS Lambda for scalable, cost-efficient backend processing — no server management required.
 
-### 📦 Scalable Object Storage
+###   Scalable Object Storage
 * Utilizes **Amazon S3** to securely store media files with high availability and durability.
 
-###  📊 Metadata Management
+###    Metadata Management
 * Leverages **Amazon DynamoDB** for fast and flexible storage of media metadata, enabling quick retrieval and queries.
 
-### 💻 Simple Web Interface
+###   Simple Web Interface
 * A clean and intuitive front-end interface allows users to upload media files with ease.
 ## Ideal Use Cases
 
@@ -84,5 +84,6 @@ Set up Amazon API Gateway to expose your Lambda function through RESTful HTTP en
 
 ### 7.Build Frontend Interface
 Develop a simple, user-friendly frontend (e.g., a React or plain HTML/JS app) that connects to the API Gateway, allowing users to upload media and submit metadata easily.
+
 
 
